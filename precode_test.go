@@ -14,7 +14,7 @@ import (
 
 const (
 	correctCity   = "moscow"
-	incorrectCity = "ukhta"
+	incorrectCity = "test"
 )
 
 func TestMainHandlerWhenCountMoreThanTotal(t *testing.T) {
